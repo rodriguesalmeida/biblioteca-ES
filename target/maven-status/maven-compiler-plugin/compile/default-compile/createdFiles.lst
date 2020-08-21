@@ -1,0 +1,5 @@
+biblioteca/rest/LivroRest.class
+biblioteca/rest/CrossOriginFilter.class
+biblioteca/model/Livro.class
+biblioteca/bean/LivroBean.class
+biblioteca/rest/ApplicationConfig.class
